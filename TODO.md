@@ -1,0 +1,2 @@
+- [x] Fix JSX expression for qrResult display in src/components/VideoQRPlayer.jsx
+- [x] Fix defaultVideo path string in src/components/VideoQRPlayer.jsx
